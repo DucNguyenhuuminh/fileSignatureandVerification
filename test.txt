@@ -1,0 +1,13 @@
+@English:
+    1.Hello World
+    2.Hi
+
+@French:
+    1.Bonjour tous les monde
+    2.Cou Cou
+    3.Ciao
+
+@Vietnamese:
+    1.Xin chao the gioi
+    2.Chao buoi sang
+    3.Chao
